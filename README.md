@@ -6,7 +6,8 @@ Equipe:             Eduarda Luiza Vitoria
                     Luana Xavier Monteiro
                     Daniel de Almeida Vieira
                     
-                    O aplicativo FilaZero tem como objetivo facilitar o acesso a estabelecimentos, ele permite que o usuário visualize locais próximos a ele, e obtenha informações sobre aquele local, além de permitir entrar em filas virtuais. Assim, reduz o tempo de espera físico e melhora a organização.
+    
+  O aplicativo FilaZero tem como objetivo facilitar o acesso a estabelecimentos, ele permite que o usuário visualize locais próximos a ele, e obtenha informações sobre aquele local, além de permitir entrar em filas virtuais. Assim, reduz o tempo de espera físico e melhora a organização.
                     
                
 Tela 1 – Login
